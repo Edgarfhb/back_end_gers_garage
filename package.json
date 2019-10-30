@@ -36,7 +36,7 @@
     "nodemon": "^1.18.10",
     "pdfmake": "^0.1.53",
     "request": "^2.88.0",
-    "sequelize": "^4.43.0",
+    "sequelize": "^5.15.1",
     "sharp": "^0.21.3",
     "uuid": "^3.3.2"
   },
